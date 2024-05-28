@@ -1,5 +1,5 @@
 {
-    "name": "3D Ghost Game",
+    "name": "3D Ghost Game #2",
     "version": "0.1.0",
     "description": "",
     "dependencies": {
@@ -24,7 +24,7 @@
         "branch": "v1.10.36",
         "tag": "v1.10.36",
         "commits": "https://github.com/microsoft/pxt-arcade/commits/3a5a7e13703edf0412c17bdb9b1469e282a5b31b",
-        "target": "2.0.1",
+        "target": "2.0.3",
         "pxt": "8.3.9",
         "targetId": "arcade"
     },

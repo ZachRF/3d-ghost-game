@@ -2115,7 +2115,7 @@ function level2 () {
     sprites.destroyAllSpritesOfKind(SpriteKind.Enemy)
     ammo = 10
     info.setLife(ammo)
-    tiles.setCurrentTilemap(tilemap`level4`)
+    tiles.setCurrentTilemap(tilemap`level0`)
     scene.setBackgroundImage(img`
         ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
         ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
